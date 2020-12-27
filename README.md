@@ -1,2 +1,2 @@
-# Homework-JavaScript
-All Homework-JavaScript
+# Homework-JavaScript-SEDC
+All Homework-JavaScript-SEDC
